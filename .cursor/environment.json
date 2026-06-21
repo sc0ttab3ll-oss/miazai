@@ -1,0 +1,3 @@
+{
+  "setupScript": "#!/usr/bin/env bash\nset -euo pipefail\n\nif [ ! -d .venv ]; then\n  python3.11 -m venv .venv\nfi\n\n. .venv/bin/activate\npython -m pip install --upgrade pip\npip install pyphen langgraph requests 'sentry-sdk[flask]' flask qdrant-client neo4j python-dotenv pytest\n"
+}
