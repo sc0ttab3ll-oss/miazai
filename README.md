@@ -1,3 +1,5 @@
+⚠️ ARCHIVED — superseded by https://github.com/miazai/miazai. Ez a repo nem aktív, az összes tartalma átkerült.
+
 # MIa-zAI
 
 T420-optimized v1-lite bootstrap for WhiteEar and WhiteEgo.
